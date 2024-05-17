@@ -108,7 +108,7 @@ ls
 
 ### Resutados
 
-![Alt text](./TXT COM RASOM.png "TXT COM RASOM")
-![Alt text](./TERMINAL 1.png "TERMINAL 1")
-![Alt text](./TERMINAL 2.png "TERMINAL 2")
-![Alt text](./TESTE.png "TESTE")
+![Alt text](./TXT COM RASOM.png"TXT COM RASOM")
+![Alt text](./TERMINAL 1.png"TERMINAL 1")
+![Alt text](./TERMINAL 2.png"TERMINAL 2")
+![Alt text](./TESTE.png"TESTE")
