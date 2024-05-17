@@ -3,7 +3,7 @@
 ### Ferramentas
 
 - Kali Linux
-- pyaes
+- Pyaes
 
 
 ### Configuração do Arquivo Txt e do código Python no Kali Linux
